@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/github/downloads/kahpslock/cfxprofiler/total?style=for-the-badge" alt="GitHub all releases">
   
 </p>
-
-<h4 align="center">Parses the built in CFX Profiler, to help owners find laggy scripts more easily.</h4>
+<div align="center">
+<h4>Parses the built in CFX Profiler, to help owners find laggy scripts more easily.</h4>
 
 
 ## Usage
@@ -27,6 +27,7 @@ If you have any issues, join our [Discord.](https://discord.kahpslock.dev/)
 
 ## Legal Stuff
 **Please do not reupload, and instead link to this page.**
+</div>
 
 Feel free to suggest features to be added, or submit a pull request. To publish using any of our code, please ask permission, we'll most likely say yes. :smile:
 
