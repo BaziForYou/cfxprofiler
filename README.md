@@ -4,15 +4,18 @@
   <br>
 </h1>
 
-<div align="center">
-  ![GitHub top language](https://img.shields.io/github/languages/top/kahpslock/cfxprofiler)
-  ![Discord](https://img.shields.io/discord/1062084928101154816)
-  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kahpslock/cfxprofiler)
-  ![GitHub all releases](https://img.shields.io/github/downloads/kahpslock/cfxprofiler/total)
-</div>
-<div align="center">
-![GitHub Repo stars](https://img.shields.io/github/stars/kahpslock/cfxprofiler?style=social)
-</div>
+
+<p align="center">  
+  <img src="https://img.shields.io/github/languages/top/kahpslock/cfxprofiler?style=for-the-badge" alt="GitHub top language">
+  <img src="https://img.shields.io/github/languages/code-size/kahpslock/cfxprofiler?style=for-the-badge" alt="GitHub code size in bytes">
+  <img src="https://img.shields.io/github/stars/kahpslock/cfxprofiler?style=for-the-badge" alt="GitHub Repo stars">
+  
+  <br>
+  <img src="https://img.shields.io/discord/1062084928101154816?style=for-the-badge" alt="Discord">
+  <img src="https://img.shields.io/github/downloads/kahpslock/cfxprofiler/total?style=for-the-badge" alt="GitHub all releases">
+  
+</p>
+
 <h4 align="center">Parses the built in CFX Profiler, to help owners find laggy scripts more easily.</h4>
 
 
