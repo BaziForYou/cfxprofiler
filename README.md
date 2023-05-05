@@ -27,7 +27,7 @@ If you have any issues, join our [Discord.](https://discord.kahpslock.dev/)
 
 ## Legal Stuff
 **Please do not reupload, and instead link to this page.**
-</div>
 
 Feel free to suggest features to be added, or submit a pull request. To publish using any of our code, please ask permission, we'll most likely say yes. :smile:
 
+</div>
