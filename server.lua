@@ -13,7 +13,9 @@ RegisterConsoleListener(function(channel, message)
         end
     end
     if string.find(message, "Stopped the recording") then
-        ExecuteCommand("profiler saveJSON resources/KLprofiler/profiler.json")
+        resname = GetCurrentResourceName()
+        respath = GetResourcePath(resname)
+        ExecuteCommand("profiler saveJSON " .. respath .. "/profiler.json")
     end
     if string.find(message, "Save complete") then
         oldnamets = 0
