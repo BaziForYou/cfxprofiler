@@ -20,7 +20,7 @@
 
 
 ## Usage
-Place the script directly into your `resources` folder. Ensure it is not in a subfolder, and is named `"KLProfiler"` or it will not work properly. You also need the Ace permission `add_ace resource.KLprofiler command allow`.
+Ensure this script folder is named `"KLProfiler"` or it will not work properly. You also need the Ace permission `add_ace resource.KLprofiler command allow`.
 
 If you have any issues, join our [Discord.](https://discord.kahpslock.dev/)
 
